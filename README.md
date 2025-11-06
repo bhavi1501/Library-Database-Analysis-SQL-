@@ -55,7 +55,7 @@ The database includes the following tables
 
 📈 Insights & Recommendations
 
-•	Based on the analysis, key recommendations include:
+Based on the analysis, key recommendations include:
 
 •	Optimize Book Availability – Add more copies of high-demand books
 
